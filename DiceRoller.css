@@ -8,7 +8,7 @@
 .dice {
   width: 150px;
   height: 150px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #20b2aa 0%, #2e8b84 100%);
   border-radius: 15px;
   display: flex;
   justify-content: center;
@@ -41,17 +41,17 @@
   font-size: 1.1em;
   font-weight: bold;
   color: white;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #20b2aa 0%, #2e8b84 100%);
   border: none;
   border-radius: 50px;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+  box-shadow: 0 5px 15px rgba(32, 178, 170, 0.4);
 }
 
 .roll-button:hover:not(:disabled) {
   transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(102, 126, 234, 0.6);
+  box-shadow: 0 8px 20px rgba(32, 178, 170, 0.6);
 }
 
 .roll-button:active:not(:disabled) {
