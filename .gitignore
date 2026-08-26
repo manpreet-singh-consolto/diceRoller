@@ -10,6 +10,8 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+# www/ (the build output) is intentionally NOT ignored — the deployment engine never
+# builds and strips "dist"/"build" when packing, so the release needs it committed.
 *.local
 
 # Editor directories and files
