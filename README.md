@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# r1 Test Branch
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This is a scratch branch used to exercise the merge-conflict workflow. Do not treat this README as real documentation.
 
 Currently, two official plugins are available:
 
